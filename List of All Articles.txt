@@ -1,9 +1,9 @@
-												Articles related to Trees
+						Articles related to Trees
 
-Convert a Binary Tree to a Circular Doubly Link List 
-http://www.geeksforgeeks.org/convert-a-binary-tree-to-a-circular-doubly-link-list/
+1 ) Convert a Binary Tree to a Circular Doubly Link List 
+   http://www.geeksforgeeks.org/convert-a-binary-tree-to-a-circular-doubly-link-list/
 
-Implement a Phone Directory
+2 ) Implement a Phone Directory
 http://www.geeksforgeeks.org/implement-a-phone-directory/
 
 Binary Indexed Tree : Range Updates and Point Queries
@@ -15,7 +15,7 @@ http://www.geeksforgeeks.org/binary-indexed-tree-range-update-range-queries/
 Maximum Consecutive Increasing Path Length in Binary Tree
 http://www.geeksforgeeks.org/maximum-consecutive-increasing-path-length-in-binary-tree/
 
-												Articles related to Graphs
+						Articles related to Graphs
 
 Kruskal’s Minimum Spanning Tree using STL in C++
 http://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-using-stl-in-c/
@@ -33,12 +33,12 @@ Find all reachable nodes from every node present in a given set
 http://www.geeksforgeeks.org/find-all-reachable-nodes-from-every-node-present-in-a-given-set/
 
 
-										Application of Disjoint Set Union(DSU)
+					Application of Disjoint Set Union(DSU)
 
 Job Sequencing Problem | Set 2 (Using Disjoint Set)
 http://www.geeksforgeeks.org/job-sequencing-using-disjoint-set-union/
 										
-											Articles related to Math
+					Articles related to Math
 Sum of Fibonacci Numbers
 http://www.geeksforgeeks.org/sum-fibonacci-numbers/
 
@@ -48,17 +48,17 @@ http://www.geeksforgeeks.org/find-two-missing-numbers-set-1-an-interesting-linea
 Count number of unique Triangles using STL | Set 1 (Using set)
 http://www.geeksforgeeks.org/count-number-of-unique-triangles-using-stl/
 	
-											Article on Design Pattern
+					Article on Design Pattern
 
 Flyweight Design Pattern
 http://www.geeksforgeeks.org/flyweight-design-pattern/
 
-										Article on Randomized Algorithm
+					Article on Randomized Algorithm
 
 1/2 Approximate Median										
 http://www.geeksforgeeks.org/randomized-algorithms-set-3-12-approximate-median/
 
-											Articles related to Java
+					Articles related to Java
 
 Pair Class in Java
 http://quiz.geeksforgeeks.org/pair-class-in-java/
