@@ -1,0 +1,76 @@
+												Articles related to Trees
+
+Convert a Binary Tree to a Circular Doubly Link List 
+http://www.geeksforgeeks.org/convert-a-binary-tree-to-a-circular-doubly-link-list/
+
+Implement a Phone Directory
+http://www.geeksforgeeks.org/implement-a-phone-directory/
+
+Binary Indexed Tree : Range Updates and Point Queries
+http://www.geeksforgeeks.org/binary-indexed-tree-range-updates-point-queries/
+
+Binary Indexed Tree : Range Update and Range Queries
+http://www.geeksforgeeks.org/binary-indexed-tree-range-update-range-queries/
+
+Maximum Consecutive Increasing Path Length in Binary Tree
+http://www.geeksforgeeks.org/maximum-consecutive-increasing-path-length-in-binary-tree/
+
+												Articles related to Graphs
+
+Kruskal’s Minimum Spanning Tree using STL in C++
+http://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-using-stl-in-c/
+
+Kahn’s algorithm for Topological Sorting
+http://www.geeksforgeeks.org/topological-sorting-indegree-based-solution/
+
+Stepping Numbers
+http://www.geeksforgeeks.org/stepping-numbers/
+
+Clone an Undirected Graph
+http://www.geeksforgeeks.org/clone-an-undirected-graph/
+
+Find all reachable nodes from every node present in a given set
+http://www.geeksforgeeks.org/find-all-reachable-nodes-from-every-node-present-in-a-given-set/
+
+
+										Application of Disjoint Set Union(DSU)
+
+Job Sequencing Problem | Set 2 (Using Disjoint Set)
+http://www.geeksforgeeks.org/job-sequencing-using-disjoint-set-union/
+										
+											Articles related to Math
+Sum of Fibonacci Numbers
+http://www.geeksforgeeks.org/sum-fibonacci-numbers/
+
+Find Two Missing Numbers | Set 1 (An Interesting Linear Time Solution)
+http://www.geeksforgeeks.org/find-two-missing-numbers-set-1-an-interesting-linear-time-solution/
+
+Count number of unique Triangles using STL | Set 1 (Using set)
+http://www.geeksforgeeks.org/count-number-of-unique-triangles-using-stl/
+	
+											Article on Design Pattern
+
+Flyweight Design Pattern
+http://www.geeksforgeeks.org/flyweight-design-pattern/
+
+										Article on Randomized Algorithm
+
+1/2 Approximate Median										
+http://www.geeksforgeeks.org/randomized-algorithms-set-3-12-approximate-median/
+
+											Articles related to Java
+
+Pair Class in Java
+http://quiz.geeksforgeeks.org/pair-class-in-java/
+
+Mark-and-Sweep: Garbage Collection Algorithm
+http://www.geeksforgeeks.org/mark-and-sweep-garbage-collection-algorithm/
+
+Iterator vs Foreach In Java
+http://www.geeksforgeeks.org/iterator-vs-foreach-in-java/
+
+Garbage Collection in Java
+http://www.geeksforgeeks.org/garbage-collection-java/
+
+HashMap and TreeMap in Java
+http://www.geeksforgeeks.org/hashmap-treemap-java/
